@@ -1,0 +1,44 @@
+.sai{
+    background-color: red;
+    align-content: center;
+     font-size: 3em;
+    font-family:  monospace ,sans-serif;
+    color: whitesmoke;    
+}
+  img{
+position:  relative;
+left: 300px;
+top: 20px;
+  height: 100px;
+    width: 100px;
+     border-radius: 50px;
+     border: 5px solid green ;
+}
+#detiles > h2{
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+    color: royalblue;
+    
+}
+#details li{
+    font-size: 2rem;
+}
+ 
+body{
+    background-color: bisque;
+}
+div{
+position: relative;
+left: 300px;
+top: 20px;
+}
+.laks
+{
+    position:  relative;
+    left: 10px;
+    top: 100%;
+    border-radius: 50%; 
+}
+hr{
+    background-color: orange;
+}
